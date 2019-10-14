@@ -1,5 +1,5 @@
 ---
-title: "Content Marketing"
+title: "Benefiber"
 date: 2019-10-10T12:25:26-04:00
 description: "Created relatable wellness stories to promote a product"
 layout: ""
@@ -20,6 +20,7 @@ I wrote a series of practical and relatable articles on health and lifestyle. Th
 [What is the gut-brain connection mean?](https://www.benefiber.com/digestive-health/gut-health-101/what-is-gut-brain-connection/)
 
 Additional samples are available upon request. 
+
 
 
 
