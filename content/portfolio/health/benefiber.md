@@ -9,7 +9,7 @@ draft: true
 
 # Benefiber
 
-I wrote a series of practical and relatable articles on health and lifestyle. These blog posts grew organic reach for Benefiber's popular line of fiber supplements.
+I wrote a series of practical and relatable articles on health and lifestyle. These blog posts grew organic reach for Benefiber's popular line of fiber supplements. Here are some highlights. 
 
 [How digestion changes as we age](https://www.benefiber.com/fiber-in-your-life/fiber-and-wellness/aging-and-digestion/)
 
@@ -19,6 +19,7 @@ I wrote a series of practical and relatable articles on health and lifestyle. Th
 
 [What is the gut-brain connection mean?](https://www.benefiber.com/digestive-health/gut-health-101/what-is-gut-brain-connection/)
 
+Additional samples are available upon request. 
 
 
 
