@@ -1,5 +1,5 @@
 ---
-title: "Large Brands"
+title: "Influencers"
 description: "Advertising copy and content for household name brands"
 featured_image: ''
 ---
